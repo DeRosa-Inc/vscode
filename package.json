@@ -88,7 +88,7 @@
     "@types/keytar": "^4.4.0",
     "@types/minimist": "^1.2.0",
     "@types/mocha": "2.2.39",
-    "@types/node": "^12.11.7",
+    "@types/node": "^16.3.1",
     "@types/sinon": "^1.16.36",
     "@types/vscode-windows-registry": "^1.0.0",
     "@types/webpack": "^4.4.10",
